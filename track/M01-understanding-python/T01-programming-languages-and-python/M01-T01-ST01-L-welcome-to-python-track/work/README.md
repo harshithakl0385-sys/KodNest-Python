@@ -2,26 +2,25 @@
 
 ## My Name
 
-Write your name.
+My name is Harshitha KL
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+I learned how to write pseduocode and building logic in the foundation  month.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because of its simplicity and intrested in building applications.
 
 ## My Career Goal
 
-Write the role you want to achieve.
-
+My career goal is to become a senior software developer.
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Programming means: A set of instructions to solve a problem and make computer understand.
 
-Python is:
+Python is: A high level Programming language
 
-In this track, I will learn:
+In this track, I will learn: Python fundamentals, decision statemets and a full stack python.
