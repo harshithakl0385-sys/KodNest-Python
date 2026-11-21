@@ -67,3 +67,32 @@ python helps me : write program in a formal language  to make computer understan
 
 Syntax tells me : the rules for writing the code correctly.
 
+# Why Programming language Exist
+
+## Why does a computer need instruction ?
+
+A computer needs instruction because it cannot think or perform tasks on its own.it needs instructions to know what to do, how to do it, and when to do it.
+
+## Why can we not Build Applications Using Normal Human Langugae ?
+
+Because Computer cannot directly understand human languges also it is ambiguious and not clear.
+
+## What Problem Do Programming Languages Solve ?
+
+Programming languages provide a way to write structured instructions that computer can understand, process, and execute to perform specific tasks.
+
+## Why is Machine Language Difficult for Humans ?
+
+Machine Language is difficult for humans because it uses only 0's and 1's binary code which are hard to read, write, understand, and remember.
+
+## How Does Python Help ?
+
+Python helps us to write instructions in simple, human-readable code and converts them into a form that the computer can understand and execute.
+
+## My Final Understanding
+
+A Programming language acts as a bridge between : Humans and computer.
+
+Python allows a developer to : write code in simple way and to build applications and solve problem.
+
+A computer follows :  instructions given by the user.
